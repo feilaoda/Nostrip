@@ -1,0 +1,2 @@
+# Nostrip
+Nostr relay
